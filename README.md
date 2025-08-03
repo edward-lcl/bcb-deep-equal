@@ -177,7 +177,7 @@ abs(a - b) <= max(rel_tol * max(abs(a), abs(b)), abs_tol)
 
 ```bash
 # Clone the repository
-git clone https://github.com/aaron-sandoval/bcb-deep-equal.git
+git clone https://github.com/mushu-dev/bcb-deep-equal.git
 cd bcb-deep-equal
 
 # Install development dependencies
@@ -224,6 +224,6 @@ If you use this package in your research, please cite:
   author = {Sandoval, Aaron},
   title = {BCB Deep Equal: Floating-point tolerant comparison for BigCodeBench},
   year = {2025},
-  url = {https://github.com/aaron-sandoval/bcb-deep-equal}
+  url = {https://github.com/mushu-dev/bcb-deep-equal}
 }
 ```

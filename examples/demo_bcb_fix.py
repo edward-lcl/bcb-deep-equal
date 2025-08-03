@@ -189,5 +189,5 @@ if __name__ == "__main__":
     print("✅ BCB Deep Equal solves floating-point comparison issues!")
     print("=" * 60)
     print("\nInstall: pip install bcb-deep-equal")
-    print("GitHub: https://github.com/aaron-sandoval/bcb-deep-equal")
+    print("GitHub: https://github.com/mushu-dev/bcb-deep-equal")
     print()
