@@ -4,16 +4,16 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "bcb-deep-equal"
-version = "0.1.0"
+version = "0.1.1"
 description = "Floating-point tolerant comparison for BigCodeBench"
 readme = "README.md"
 requires-python = ">=3.8"
 license = {text = "MIT"}
 authors = [
-    {name = "Aaron Sandoval"},
+    {name = "mushu-dev"},
 ]
 maintainers = [
-    {name = "Aaron Sandoval"},
+    {name = "mushu-dev"},
 ]
 keywords = [
     "bigcodebench", 
