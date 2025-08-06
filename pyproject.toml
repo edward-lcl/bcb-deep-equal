@@ -4,16 +4,16 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "bcb-deep-equal"
-version = "0.1.1"
+version = "0.1.2"
 description = "Floating-point tolerant comparison for BigCodeBench"
 readme = "README.md"
 requires-python = ">=3.8"
 license = {text = "MIT"}
 authors = [
-    {name = "mushu-dev"},
+    {name = "edward-lcl"},
 ]
 maintainers = [
-    {name = "mushu-dev"},
+    {name = "edward-lcl"},
 ]
 keywords = [
     "bigcodebench", 
@@ -56,9 +56,9 @@ dev = [
 ]
 
 [project.urls]
-"Homepage" = "https://github.com/mushu-dev/bcb-deep-equal"
-"Bug Reports" = "https://github.com/mushu-dev/bcb-deep-equal/issues"
-"Source" = "https://github.com/mushu-dev/bcb-deep-equal"
+"Homepage" = "https://github.com/edward-lcl/bcb-deep-equal"
+"Bug Reports" = "https://github.com/edward-lcl/bcb-deep-equal/issues"
+"Source" = "https://github.com/edward-lcl/bcb-deep-equal"
 
 [tool.setuptools.packages.find]
 where = ["src"]
